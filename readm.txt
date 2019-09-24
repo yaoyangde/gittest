@@ -1,0 +1,5 @@
+Git it a version control system
+Git it free software
+git is new
+git is a distributed version control system
+Git is free software distributed under the GPL.
